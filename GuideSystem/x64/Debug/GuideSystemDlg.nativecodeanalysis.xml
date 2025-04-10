@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>G:\C++Project\GuideSystem\</FILEPATH>
+      <FILENAME>GuideSystemDlg.cpp</FILENAME>
+      <LINE>96</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "48252" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>CGuideSystemDlg::OnInitDialog</FUNCTION>
+    <DECORATED>?OnInitDialog@CGuideSystemDlg@@MEAAHXZ</DECORATED>
+    <FUNCLINE>96</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>G:\C++Project\GuideSystem\</FILEPATH>
+      <FILENAME>GuideSystemDlg.cpp</FILENAME>
+      <LINE>247</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "48692" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>CGuideSystemDlg::OnBnClickedButton1</FUNCTION>
+    <DECORATED>?OnBnClickedButton1@CGuideSystemDlg@@QEAAXXZ</DECORATED>
+    <FUNCLINE>247</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>G:\C++Project\GuideSystem\</FILEPATH>
+      <FILENAME>GuideSystemDlg.cpp</FILENAME>
+      <LINE>301</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "48620" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>CGuideSystemDlg::OnBnClickedButton2</FUNCTION>
+    <DECORATED>?OnBnClickedButton2@CGuideSystemDlg@@QEAAXXZ</DECORATED>
+    <FUNCLINE>301</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>G:\C++Project\GuideSystem\</FILEPATH>
+      <FILENAME>GuideSystemDlg.cpp</FILENAME>
+      <LINE>390</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "48304" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>CGuideSystemDlg::OnBnClickedButton5</FUNCTION>
+    <DECORATED>?OnBnClickedButton5@CGuideSystemDlg@@QEAAXXZ</DECORATED>
+    <FUNCLINE>390</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>G:\C++Project\GuideSystem\</FILEPATH>
+      <FILENAME>GuideSystemDlg.cpp</FILENAME>
+      <LINE>414</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "48304" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>CGuideSystemDlg::OnBnClickedButton6</FUNCTION>
+    <DECORATED>?OnBnClickedButton6@CGuideSystemDlg@@QEAAXXZ</DECORATED>
+    <FUNCLINE>414</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>G:\C++Project\GuideSystem\</FILEPATH>
+      <FILENAME>GuideSystemDlg.cpp</FILENAME>
+      <LINE>437</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函数使用堆叠的 "48304" 字节。请考虑将一些数据移动到堆。</DESCRIPTION>
+    <FUNCTION>CGuideSystemDlg::OnBnClickedButton7</FUNCTION>
+    <DECORATED>?OnBnClickedButton7@CGuideSystemDlg@@QEAAXXZ</DECORATED>
+    <FUNCLINE>437</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

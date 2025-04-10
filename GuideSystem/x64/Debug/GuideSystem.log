@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  GuideSystem.cpp
+  GuideSystemDlg.cpp
+  MGraph.cpp
+  MyTools.cpp
+  正在运行 C/C++ 代码分析...
+G:\C++Project\GuideSystem\GuideSystemDlg.cpp(96): warning C6262: 函数使用堆叠的 "48252" 字节。请考虑将一些数据移动到堆。
+G:\C++Project\GuideSystem\GuideSystemDlg.cpp(247): warning C6262: 函数使用堆叠的 "48692" 字节。请考虑将一些数据移动到堆。
+G:\C++Project\GuideSystem\GuideSystemDlg.cpp(301): warning C6262: 函数使用堆叠的 "48620" 字节。请考虑将一些数据移动到堆。
+G:\C++Project\GuideSystem\GuideSystemDlg.cpp(390): warning C6262: 函数使用堆叠的 "48304" 字节。请考虑将一些数据移动到堆。
+G:\C++Project\GuideSystem\GuideSystemDlg.cpp(414): warning C6262: 函数使用堆叠的 "48304" 字节。请考虑将一些数据移动到堆。
+G:\C++Project\GuideSystem\GuideSystemDlg.cpp(437): warning C6262: 函数使用堆叠的 "48304" 字节。请考虑将一些数据移动到堆。
+G:\C++Project\GuideSystem\MyTools.cpp(75): warning C6385: 正在从 "ss" 读取无效数据。: Lines: 55, 57, 59, 60, 61, 64, 65, 66, 67, 66, 67, 66, 75
+  正在生成代码...
+  GuideSystem.vcxproj -> G:\C++Project\GuideSystem\x64\Debug\GuideSystem.exe

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GuideSystem", "GuideSystem.vcxproj", "{F9272C96-DFDD-476F-A418-1BFEE739793B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MapGuide", "..\..\MapGuide\MapGuide.vdproj", "{C0A6AE21-6DFA-4AC8-9959-7C1353CE961B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9272C96-DFDD-476F-A418-1BFEE739793B}.Debug|x64.ActiveCfg = Debug|x64
+		{F9272C96-DFDD-476F-A418-1BFEE739793B}.Debug|x64.Build.0 = Debug|x64
+		{F9272C96-DFDD-476F-A418-1BFEE739793B}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9272C96-DFDD-476F-A418-1BFEE739793B}.Debug|x86.Build.0 = Debug|Win32
+		{F9272C96-DFDD-476F-A418-1BFEE739793B}.Release|x64.ActiveCfg = Release|x64
+		{F9272C96-DFDD-476F-A418-1BFEE739793B}.Release|x64.Build.0 = Release|x64
+		{F9272C96-DFDD-476F-A418-1BFEE739793B}.Release|x86.ActiveCfg = Release|Win32
+		{F9272C96-DFDD-476F-A418-1BFEE739793B}.Release|x86.Build.0 = Release|Win32
+		{C0A6AE21-6DFA-4AC8-9959-7C1353CE961B}.Debug|x64.ActiveCfg = Debug
+		{C0A6AE21-6DFA-4AC8-9959-7C1353CE961B}.Debug|x86.ActiveCfg = Debug
+		{C0A6AE21-6DFA-4AC8-9959-7C1353CE961B}.Release|x64.ActiveCfg = Release
+		{C0A6AE21-6DFA-4AC8-9959-7C1353CE961B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A16039-428A-4CA6-A7CB-07A28D47C84F}
+	EndGlobalSection
+EndGlobal
